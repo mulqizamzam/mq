@@ -21,7 +21,7 @@ var system = {
 'window' : false
 };
 var max = 1;
-var pWait = 3  * 1;
+var pWait = 3 * 1;
 var pCap = 99;
 var todayPops = 0;
 var cookie = ("_.jwplayer9x33x");
