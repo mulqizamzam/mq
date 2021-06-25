@@ -1,4 +1,4 @@
-var rPop = ['https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks'];
+var rPop = ['https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u284x2c454&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks','https://xapi.juicyads.com/service_advanced.php?juicy_code=3454u2y2p214u4q2u294z26414&u=http%3A%2F%2Fwww.juicyads.rocks'];
 function cakcakanArr(array) {
     for (var i = array.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
@@ -21,7 +21,7 @@ var system = {
 'window' : false
 };
 var max = 1;
-var pWait = 3 * 1;
+var pWait = 9 * 1;
 var pCap = 99;
 var todayPops = 0;
 var cookie = ("_.jwplayer9x33x");
