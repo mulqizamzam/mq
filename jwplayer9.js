@@ -22,9 +22,9 @@ var system = {
 };
 var max = 1;
 var pWait = 9 * 1;
-var pCap = 99;
+var pCap = 999;
 var todayPops = 0;
-var cookie = ("_.jwplayer9x33x");
+var cookie = ("_.jwplayer9x333x");
 
 var _parent = self;
 try {
