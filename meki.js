@@ -1,4 +1,4 @@
-var rBannerxyz = ['897934','902108','902517','902518'];
+var rBannerxyz = ['897934','938552','902108','902517','902518'];
 function cakcakanArr(array) {
     for (var i = array.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
