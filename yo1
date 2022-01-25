@@ -1,0 +1,13 @@
+./ssdbresetall.sh
+mkdir /tmp/empty_dir
+rsync -a --delete /tmp/empty_dir/ /var/www/agc-cache/
+chown -Rf www-data:www-data /var/www/agc-cache/
+rsync -a --delete /tmp/empty_dir/ /var/www/img-cache/
+chown -Rf www-data:www-data /var/www/img-cache/
+wo clean --all
+chown -Rf www-data:www-data /var/www/
+truncate /var/log/mail.info --size 0
+truncate /var/log/mail.err --size 0
+truncate /var/log/mail.warn --size 0
+truncate /var/log/syslog --size 0
+df -h
